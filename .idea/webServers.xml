@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="77330982-953f-4c01-bd93-8cf7d2a84474" name="192.168.2.203" url="http://192.168.2.203">
+        <fileTransfer host="192.168.2.203" port="22" rootFolder="/home/sun/Develop/ly/tensorflowDemo" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
